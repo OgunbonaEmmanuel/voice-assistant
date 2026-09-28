@@ -1,0 +1,5 @@
+streamlit
+faster-whisper
+python-dotenv
+openai
+pyttsx3

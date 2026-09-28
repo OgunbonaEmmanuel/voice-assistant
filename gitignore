@@ -1,0 +1,23 @@
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local Streamlit secrets
+.streamlit/secrets.toml
+
+# Locally saved audio recordings
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
